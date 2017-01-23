@@ -1,7 +1,7 @@
 {
     "name": "wow/hello",
     "autoload": {
-        "psr-4": {"Wow\\MageMonkey\\":""},
+        "psr-4": {"Wow\\Hello\\":""},
         "files": ["registration.php"]
     },
     "description": "Hello API tests based on the Inchoo one",
