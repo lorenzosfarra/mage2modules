@@ -1,0 +1,17 @@
+{
+    "name": "wow/hello",
+    "autoload": {
+        "psr-4": {"Wow\\MageMonkey\\":""},
+        "files": ["registration.php"]
+    },
+    "description": "Hello API tests based on the Inchoo one",
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "support": {
+        "email": "lorenzosfarra@gmail.com"
+    }
+}
