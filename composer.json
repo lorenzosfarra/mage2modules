@@ -11,6 +11,11 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
+    "extra": {
+        "branch-alias": {
+            "alpha": "1.1.0-beta"
+        }
+    }
     "support": {
         "email": "lorenzosfarra@gmail.com"
     }
